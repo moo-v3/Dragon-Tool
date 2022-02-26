@@ -9,7 +9,7 @@ Download and Install tools
 
  * pkg install python -y
 
- * git clone
+ * git clone https://github.com/Dragon603/Dragon-Tool.git
 
  * cd Dragon-Tool
 
