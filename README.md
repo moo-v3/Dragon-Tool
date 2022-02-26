@@ -6,6 +6,8 @@ Download and Install tools
 <h3> Mode Of Execution: </h3>
 
  * apt update && apt upgarde
+ 
+ * pkg install git -y
 
  * pkg install python -y
 
